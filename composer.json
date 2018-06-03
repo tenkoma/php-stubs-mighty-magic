@@ -1,0 +1,13 @@
+{
+    "name": "tenkoma/php-stubs-mighty-magic",
+    "description": "Stub for PHP extension that allows redefinition of code",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koji Tanaka",
+            "email": "tenkoma@gmail.com"
+        }
+    ],
+    "require": {}
+}
